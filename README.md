@@ -98,6 +98,6 @@ Browser extensions that add CORS headers can be handy for local development, but
 
 ## About
 
-Maintained by the developer of PureHeaders, PureMock, PureJSON and PureSession, small browser extensions for web developers (no accounts, no telemetry). PureHeaders adds and changes request and response headers, including CORS headers, only on the sites you pick. Corrections and new cases are welcome as issues or pull requests. Contact: papana44444@gmail.com
+Maintained by the developer of PureHeaders, PureMock, PureJSON and PureSession, small browser extensions for web developers (no accounts, no telemetry). PureHeaders ([Chrome](https://chromewebstore.google.com/detail/flplhcopkoiihcapihkljhjaminhpink) · [Edge](https://microsoftedge.microsoft.com/addons/detail/ilodajgedphnnmafkapjcldjbjbkcmfj) · [Firefox](https://addons.mozilla.org/firefox/addon/pureheaders-modify-headers/)) adds and changes request and response headers, including CORS headers, only on the sites you pick. Corrections and new cases are welcome as issues or pull requests. Contact: papana44444@gmail.com
 
 MIT License.
